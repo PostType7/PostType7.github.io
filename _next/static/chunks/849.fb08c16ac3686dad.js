@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[849],{3849:function(e,s,l){l.r(s);var n=l(5893),c=l(5027),i=l(3065);s.default=function(e){var s=e.title,l=e.actions,t=e.size,a=void 0===t?"xl":t;return(0,n.jsxs)(c.Ug,{className:"items-center",children:[(0,n.jsx)(i.xv,{size:a,className:"flex-1",children:s}),l||null]})}}}]);
